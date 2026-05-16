@@ -2,3 +2,6 @@ streamlit
 pandas
 plotly
 feedparser
+pykrx==1.0.45
+exchange-calendars
+deprecated
