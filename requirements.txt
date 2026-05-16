@@ -3,3 +3,5 @@ pandas
 pykrx
 plotly
 feedparser
+setuptools
+numpy
