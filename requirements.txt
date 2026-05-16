@@ -1,8 +1,8 @@
-streamlit
-pandas
-pykrx
-plotly
-feedparser
-setuptools
-numpy
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.5
+plotly==6.0.1
+feedparser==6.0.11
+pykrx==1.0.48
+setuptools<81
 wheel
