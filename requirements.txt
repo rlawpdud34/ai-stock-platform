@@ -3,5 +3,7 @@ pandas
 plotly
 feedparser
 pykrx==1.0.45
+setuptools==69.5.1
+wheel
 exchange-calendars
 deprecated
