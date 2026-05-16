@@ -5,3 +5,4 @@ plotly
 feedparser
 setuptools
 numpy
+wheel
